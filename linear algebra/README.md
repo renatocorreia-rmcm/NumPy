@@ -10,3 +10,6 @@ some linear algebra functions are both in np.foo and np.linalg.foo (in many case
 
 The term matrix often indicates a 2d numpy.array object, and not a numpy.matrix object.
 The latter is no longer recommended, even for linear algebra.
+
+<hr>
+[documentation](https://numpy.org/devdocs/reference/routines.linalg.html)
